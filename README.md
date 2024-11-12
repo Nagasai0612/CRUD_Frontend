@@ -22,8 +22,11 @@ This article creates a Student database application using MERN (Mongo, Express, 
 
 ## App functionality
 Create a new student (CREATE)
+
 Update an existing student (UPDATE)
+
 Show all students list (READ)
+
 Delete a student (DELETE)
 
 # Getting Started with Create React App
