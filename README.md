@@ -1,3 +1,31 @@
+# How to Create react app
+npx create-react-app frontend
+cd frontend
+npm start
+
+To install, run the following code on the terminal.
+npm i react-bootstrap@next bootstrap@5.1.0 react-router-dom axios formik yup
+npm install react-router-dom@6
+npm start
+
+# How to Create backend
+mkdir backend
+cd backend
+npm init -y
+
+To install the above dependencies, run the following code on the terminal. 
+npm install express body-parser cors mongoose nodemon dotenv
+node server.js
+
+## Summary
+This article creates a Student database application using MERN (Mongo, Express, React, Node) to show the Basic CRUD Operations in a MERN App. It uses the api endpoints for HTTP requests like GET, POST, PUT, DELETE to create, read, update and detele the student data in the mongo database.
+
+## App functionality
+Create a new student (CREATE)
+Update an existing student (UPDATE)
+Show all students list (READ)
+Delete a student (DELETE)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
